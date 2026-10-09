@@ -1,0 +1,58 @@
+[
+  {
+    "Title": "评测对象的演进",
+    "Height": 316,
+    "Name": "01-evaluation-evolution.png",
+    "Url": "https://p0.meituan.net/meituantechblog/5a8954c2e7b681ee8fb8d2c8a73868cd157865.png",
+    "Width": 1798
+  },
+  {
+    "Title": "Agent 执行链路",
+    "Height": 904,
+    "Name": "02-agent-trace.png",
+    "Url": "https://p0.meituan.net/meituantechblog/6a9ba42edcd2f8bd0ec7d23d4983147a257714.png",
+    "Width": 1522
+  },
+  {
+    "Title": "指标的分层",
+    "Height": 370,
+    "Name": "03-metric-layers.png",
+    "Url": "https://p0.meituan.net/meituantechblog/fa88ffeb3556e0e8d6b2f12e8e2dbf6b146404.png",
+    "Width": 1292
+  },
+  {
+    "Title": "人工评测标准对齐",
+    "Height": 774,
+    "Name": "04-human-alignment.png",
+    "Url": "https://p0.meituan.net/meituantechblog/c8424009679d2ecc1b00466290ebc522589569.png",
+    "Width": 1336
+  },
+  {
+    "Title": "短程与长程 Agent",
+    "Height": 1058,
+    "Name": "05-short-long-agents.png",
+    "Url": "https://p0.meituan.net/meituantechblog/8f8ece9a28d04ecfddfb2adeda215de5422438.png",
+    "Width": 1540
+  },
+  {
+    "Title": "Skill 生命周期",
+    "Height": 540,
+    "Name": "06-skill-lifecycle.png",
+    "Url": "https://p0.meituan.net/meituantechblog/182fee6cd0b3b393e24bf2283bfe024c272940.png",
+    "Width": 1772
+  },
+  {
+    "Title": "Task 结构",
+    "Height": 354,
+    "Name": "07-task-structure.png",
+    "Url": "https://p0.meituan.net/meituantechblog/230f48a442655d73f000d00d39ee8e70190919.png",
+    "Width": 1798
+  },
+  {
+    "Title": "评测组件关系",
+    "Height": 2161,
+    "Name": "08-evaluation-components.png",
+    "Url": "https://p0.meituan.net/meituantechblog/e389e71bcfa0c0642002ee6c5e068cf81166501.png",
+    "Width": 3840
+  }
+]

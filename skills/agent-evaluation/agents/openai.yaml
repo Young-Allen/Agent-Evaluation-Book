@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent 工程评测"
+  short_description: "设计 Agent 评测任务、版本回归和线上观察，基于证据归因并沉淀评测资产"
+  default_prompt: "使用 $agent-evaluation 分析当前 Agent 项目，确定本次需要的评测范围，并产出可执行任务、评价标准和有证据的改进建议。"

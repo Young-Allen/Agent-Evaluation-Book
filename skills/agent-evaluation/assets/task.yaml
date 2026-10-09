@@ -1,0 +1,43 @@
+# 自定义中性模板：适配项目已有格式后使用，不是现成可运行框架配置。
+# null 表示尚未确定，执行前补齐本任务必需项；不得把缺失规则当作通过。
+schema_version: 1
+task_id: null
+purpose_tags: [] # 如 regression、challenge、must-pass
+scope: null # end-to-end 或 process
+request: null
+context:
+  fixture_ref: null
+  fixture_version: null
+  business_rules: []
+environment:
+  target: null # local、sandbox、staging 等实际环境
+  initial_state_ref: null
+  reset_method: null
+  allowed_tools: []
+  permitted_side_effects: []
+expected:
+  outcome: null
+  evidence_refs: []
+checks:
+  - id: null
+    criterion: null
+    required: null
+    grader_type: null # deterministic、human、model
+    evidence_ref: null
+    tolerance: null
+    missing_evidence_status: unknown
+comparison:
+  baseline_version: null
+  candidate_version: null
+  rubric_version: null
+  grader_version: null
+execution:
+  trials: null
+  retry_policy: null
+  timeout_seconds: null
+  cost_budget: null
+result:
+  status: not_run
+  run_id: null
+  artifact_refs: []
+  check_results: []

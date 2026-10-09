@@ -1,0 +1,30 @@
+[
+  {
+    "Height": 2580,
+    "Url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0205b36f9639fc27f2f6566f73cb56b06f59d555-4584x2580.png",
+    "Title": "Agent 评测组件",
+    "Name": "01-eval-components.png",
+    "Width": 4584
+  },
+  {
+    "Height": 2580,
+    "Url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3ddac5be07a0773922ec9df06afec55922f8194a-4584x2580.png",
+    "Title": "pass@k 与 pass^k",
+    "Name": "02-pass-metrics.png",
+    "Width": 4584
+  },
+  {
+    "Height": 2580,
+    "Url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0db40cc0e14402222a179fc6297b9c8818e97c8a-4584x2580.png",
+    "Title": "建立 Agent 评测的流程",
+    "Name": "03-eval-process.png",
+    "Width": 4584
+  },
+  {
+    "Height": 2580,
+    "Url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b77b8dbb7c2e57f063fbc8a087a853d5809b74b0-4584x2580.png",
+    "Title": "多种评测方法的互补",
+    "Name": "04-eval-layers.png",
+    "Width": 4584
+  }
+]
