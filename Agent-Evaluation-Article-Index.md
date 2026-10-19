@@ -18,6 +18,8 @@
 
 [原文链接](https://arize.com/blog/anthropic-tips-how-to-build-evals-you-can-trust/)
 
+[中文整理与工程解读](Arize-Anthropic-Agent-Evals-Tips-zh.md)
+
 【Arize 联合访谈工程落地实操】一线算法专家的实操问答。
 
 ## LangChain
